@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Character Creator</string>
+
+    <!-- Main activity strings and spinners -->
+    <string name="race_text">Race</string>
+    <string name="class_text">Class</string>
+    <string name="name_text_hint">Name</string>
+    <string name="level_text_hint">Level</string>
+    <string name="sub_class_text">Sub-Class</string>
+    <string name="alignment_text">Alignment</string>
+    <string name="background_edit_text">Background</string>
+
+    <!-- Main activity spinner populations -->
+
+    <!-- Race spinner -->
+    <string-array name="race_spinner_options">
+        <item>Aarakocra</item>
+        <item>Aasimar</item>
+        <item>Bugbear</item>
+        <item>Dragonborn</item>
+        <item>Dwarf</item>
+        <item>Elf</item>
+        <item>Feral Tiefling</item>
+        <item>Firbolg</item>
+        <item>Genasi</item>
+        <item>Gnome</item>
+        <item>Goblin</item>
+        <item>Goliath</item>
+        <item>Half-Elf</item>
+        <item>Halfling</item>
+        <item>Half-Orc</item>
+        <item>Hobgoblin</item>
+        <item>Human</item>
+        <item>Kenku</item>
+        <item>Kobold</item>
+        <item>Lizardfolk</item>
+        <item>Orc</item>
+        <item>Tabaxi</item>
+        <item>Tiefling</item>
+        <item>Tortle</item>
+        <item>Triton</item>
+        <item>Yuan-ti Pureblood</item>
+    </string-array>
+
+    <!-- Class spinner options -->
+    <string-array name="class_spinner_options">
+        <item>Barbarian</item>
+        <item>Bard</item>
+        <item>Cleric</item>
+        <item>Druid</item>
+        <item>Fighter</item>
+        <item>Monk</item>
+        <item>Paladin</item>
+        <item>Ranger</item>
+        <item>Rogue</item>
+        <item>Sorcerer</item>
+        <item>Warlock</item>
+        <item>Wizard</item>
+    </string-array>
+
+    <!-- All sub class options -->
+    <string-array name="elf_sub_class">
+        <item>Drow Elf</item>
+        <item>High Elf</item>
+        <item>Wood Elf</item>
+    </string-array>
+    <string-array name="dwarf_sub_class">
+        <item>Hill Dwarf</item>
+        <item>Mountain Dwarf</item>
+    </string-array>
+    <string-array name="genasi_sub_class">
+        <item>Air Genasi</item>
+        <item>Earth Genasi</item>
+        <item>Fire Genasi</item>
+        <item>Water Genasi</item>
+    </string-array>
+    <string-array name="gnome_sub_class">
+        <item>Deep Gnome</item>
+        <item>Rock Gnome</item>
+    </string-array>
+    <string-array name="halfling_sub_class">
+        <item>Lightfoot Halfling</item>
+        <item>Stout Halfling</item>
+    </string-array>
+
+    <!-- Alignment spinner -->
+    <string-array name="alignment_spinner">
+        <item>Lawful Good</item>
+        <item>Neutral Good</item>
+        <item>Chaotic Good</item>
+        <item>Lawful Neutral</item>
+        <item>True Neutral</item>
+        <item>Chaotic Neutral</item>
+        <item>Lawful Evil</item>
+        <item>Neutral Evil</item>
+        <item>Chaotic Evil</item>
+    </string-array>
+</resources>
